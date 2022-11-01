@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Prabal Mendiratta"
 date:   2022-11-01 18:47:02 -0500
 categories: jekyll update
 ---

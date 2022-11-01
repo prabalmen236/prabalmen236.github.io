@@ -4,26 +4,62 @@ title:  "Welcome to Jekyll!"
 date:   2022-11-01 18:47:02 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Prabal Mendiratta
 
-Jekyll requires blog post files to be named according to the following format:
+contact: 204-951-4184
+Email: mendirap@myumanitoba.ca
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## EDUCATION
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**B.Sc. Computer Science Major, Mathematics and physics minors (co-op)**, University of Manitoba  
+September 2019 - Present  
+**April 2023** expected graduation date  
+**GPA: 3.19/4.5**
 
-Jekyll also offers powerful support for code snippets:
+## TECHNICAL SKILLS
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### **PROGRAMMING LANGUAGES**
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- C/C++
+- CSS
+- Java
+- JS
+- HTML
+- SQL
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### **OPERATING SYSTEMS**
+
+- Linux
+- Windows
+- MacOS
+
+### **TOOLS AND SERVICES**
+
+- Android Studio  
+  **Android Studio experience includes**:  
+  Designing, connections, API, database
+- GIT  
+  **Git experience includes**:  
+  branching, merging, rebasing, cherry-picking
+- MS Office  
+  **MSOffice experience includes**:
+  Excel, Word, PowerPoint, Access
+
+## Academic Projects
+
+## COMP3350
+- Designed an interactiveandroid application to purchase and sell books online. Android Studio and HSQL used efficiently.
+- Worked in a group of 5 people with evenly distributed tasks.
+- applied different approach towards application development i.e. waterfall model.
+- intensice testing.
+
+## COMP3020
+- created a course and degree progress tracker using HTML, CSS and Javascript.
+- Worked in a group of 4 people with evenly distributed tasks.
+- Final Product was a graphically intuitive and user friendly website that could help students manage their workload.
+
+## COMP3380
+- Created a database and a frontend UI to access the database accordingly.
+- used multiple cross- products of multiple datasets to get the desired output according to the given parameters.
+- Created a graphical UI using java swing.
+

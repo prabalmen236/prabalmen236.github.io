@@ -14,7 +14,7 @@ We will get to know about the practical steps of how to host and format a resume
 
 ---
 
-A properly written and current resume is necessary in order to understand the actual processes for hosting a markdown-formatted resume on GitHub. Then, we'll create a résumé with a markdown format using [Markdown](https://en.wikipedia.org/wiki/Markdown), a lightweight markup language. I've included two excellent Markdown lesson links in the "More Resources" section if you want to learn more about Markdown or if you don't know anything about it yet. You have to have a resume prepared in markdown style at this point.
+A properly written and up-to-date resume is necessary in order to understand the actual processes for hosting a markdown-formatted resume on GitHub. Then, we'll create a resume with a markdown format using [Markdown](https://en.wikipedia.org/wiki/Markdown), a lightweight markup language. I've included two excellent Markdown lesson links in the "More Resources" section if you want to learn more about Markdown or if you don't know anything about it yet. You have to have a resume prepared in markdown style at this point.
 
 ### *Instructions*
 

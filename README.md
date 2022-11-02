@@ -84,6 +84,8 @@ A properly written and current resume is necessary in order to understand the ac
     >    > * Click on the `red download` button which is on the top of the webpage.
     >    > * Download any version of `rubyinstaller` with devkit.
     >    > * Open the downloaded application and choose the option to install all the packages of ruby (`Option 3`). 
+
+![rubypic](/rubyg.gif)
     
     >2. Secondly, we also need to install jekyll. For installing jekyll follow the listed steps:
     >

@@ -108,6 +108,8 @@ A properly written and current resume is necessary in order to understand the ac
 
    
    Here is a gif showing how the resume should look like.....
+   
+   ![resume](\res.gif)
 
 
    ##### More Resources

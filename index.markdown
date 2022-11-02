@@ -1,4 +1,3 @@
-# Prabal Mendiratta
 
 contact: 99 14 1 7 3 3 14
 

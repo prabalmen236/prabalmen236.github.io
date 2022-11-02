@@ -29,6 +29,8 @@ A properly written and current resume is necessary in order to understand the ac
 2. **Use Distributed Version Control**
 
     Git is free and open-source software for `distributed version control`, which tracks changes in any set of files. It is typically used to organise the efforts of programmers who are working together to build source code for software.
+    
+    ![gitpic](/gitpic.jpg)
 
 
    > According to Etter's book, "All sorts of people have extolled the virtues of distributed version control systems (DVCS) like [Git](https://git-scm.com/) / [GitHub](https://github.com) over centralized systems." 

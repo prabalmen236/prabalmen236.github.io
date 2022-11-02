@@ -6,7 +6,7 @@
 
 ---
 
-We will get to know about the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub pages and Jekyll. Also we will hopefully get an idea about key principals in technical communication, as explained in Andrew Etter's book *Modern Technical Writing*.
+We will get to know about the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub pages and Jekyll. Also, we will hopefully get an idea about key principals in technical communication, as explained in Andrew Etter's book *Modern Technical Writing*.
 
 
 
@@ -28,15 +28,15 @@ A properly written and current resume is necessary in order to understand the ac
 
 2. **Use Distributed Version Control**
 
-      EXPLAIN GIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    Git is free and open-source software for `distributed version control`, which tracks changes in any set of files. It is typically used to organise the efforts of programmers who are working together to build source code for software.
 
 
    > According to Etter's book, "All sorts of people have extolled the virtues of distributed version control systems (DVCS) like [Git](https://git-scm.com/) / [GitHub](https://github.com) over centralized systems." 
 
    > Whenever we store our documentation, we should always place a file named README.md in the root of the repository. This file should contain
    >
-   > 1. A quick summary of the product being documented
-   > 2. Instruction on how to build the documentation locally
+   > 1. Summary of the product being documented
+   > 2. Instruction on how to build locally
    > 3. Instruction on how to contribute
    >
    > For this project, we will use GitHub to host our markdown formatted resume. In order to do so, one  must have an account on GitHub. So, the fist step is to go to [GitHub](https://github.com) and create an account.
@@ -77,16 +77,16 @@ A properly written and current resume is necessary in order to understand the ac
 
     >1. Firstly, we need to install ruby or the purpose of hosting the website. For installing ruby follow the given procedure:
     >
-    >    > * Open the link for installing ruby which is mentioned in the "more resources" section. 
+    >    > * Open the link for installing ruby which is mentioned in the `more resources` section. 
     >    > * Then click on the Rubyinstaller link given in the Ways of Installing Ruby section..
-    >    > * Click on the red download button which is on the top of the webpage.
-    >    > * Download any version of rubyinstaller with devkit.
-    >    > * Open the downloaded application and choose the option to install all the packages of ruby (Option 3). 
+    >    > * Click on the `red download` button which is on the top of the webpage.
+    >    > * Download any version of `rubyinstaller` with devkit.
+    >    > * Open the downloaded application and choose the option to install all the packages of ruby (`Option 3`). 
     
     >2. Secondly, we also need to install jekyll. For installing jekyll follow the listed steps:
     >
-    >    > * type "gem install bundler jekyll
-    >    > * type "jekyll to check whether it got installed or not. If it got installed then the output will show the version of the jekyll that got installed offerwise the output will be an error.
+    >    > * type `gem install bundler jekyll`.
+    >    > * type `jekyll -v` to check whether it got installed or not. If it got installed then the output will show the version of the jekyll that got installed offerwise the output will be an error.
 
     >3. After dowloading jekyll we need to clone the repository of the github. For cloning the github repository follow the listed step:
     >
